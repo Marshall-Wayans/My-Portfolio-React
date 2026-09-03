@@ -174,14 +174,14 @@ const Contact = () => {
               >
                 Email me
               </a>
-              <a
+              {/* <a
                 className="btn ghost"
                 href= {resume}
                 target="_blank"
                 rel="noreferrer"
               >
                 Download CV
-              </a>
+              </a> */}
             </div>
           </motion.div>
 

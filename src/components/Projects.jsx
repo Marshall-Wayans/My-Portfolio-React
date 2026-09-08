@@ -158,6 +158,19 @@ liveUrl: "https://marshall-wayans.github.io/Qikao/",
   tools: ["React", "Vite", "Routing", "UI / Icons / Styling", "Local Storage"],
   liveUrl: "https://marshall-wayans.github.io/Qikao-Restaurant/"
 },
+
+{
+  id: 5,
+  title: "Tanzania Tourism Website",
+  description: "A modern, animated React website showcasing Tanzania's tourism destinations and experiences.",
+  image: tanzania,
+  category: "Web Development",
+  why: "I wanted to build a visually rich, content-driven website that goes beyond static pages and feels alive—something that could genuinely represent a country's tourism board or a travel agency. Tanzania has incredible destinations to showcase, and I saw it as the perfect opportunity to practice building an engaging, animation-heavy user experience while working with real-world data like stats, counters, and scroll-based interactions. It shows recruiters I can build polished, production-style websites that go beyond basic CRUD functionality.",
+  how: "I built this using React and Vite for a fast development workflow, and used Framer Motion to create smooth, professional animations and transitions throughout the site. I used React Intersection Observer to trigger animations as sections scroll into view, and React CountUp to animate statistics (like number of destinations, visitors, or years of experience) as they appear on screen. Icons throughout the UI are handled with Lucide React for a clean, consistent look. The site is deployed using gh-pages for easy, free hosting directly from the repository.",
+  tools: ["React", "Vite", "Framer Motion", "React Intersection Observer", "React CountUp", "Lucide React"],
+  liveUrl: "https://tanzania-website-kappa.vercel.app"
+},
+
 // {
 //   id: 5,
 //   title: "Travel Explorer Website",

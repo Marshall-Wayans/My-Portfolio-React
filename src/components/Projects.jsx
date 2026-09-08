@@ -5,6 +5,7 @@ import iccmkenya from "../assets/iccmkenya.png";
 import qikao from "../assets/qikao.png";
 import harmony from "../assets/Harmony.png";
 import qikaoo from "../assets/Qikaoo.png";
+import tanzania from "../assets/tanzania.png";
 import portfolio from "../assets/Portfolio.png";
 import "./Projects.css";
 
